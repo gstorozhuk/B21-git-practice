@@ -4,6 +4,6 @@ public class HelloTest {
         System.out.println("Hello test");
 
         // test test test
-
+// conflict should be here
     }
 }
